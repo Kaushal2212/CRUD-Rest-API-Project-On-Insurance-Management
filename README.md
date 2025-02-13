@@ -27,7 +27,7 @@
 
 <p>
   <b>Getting Started</b><br>
-  - Clone the repository: <code>git clone https://github.com/your-username/insurance-management</code><br>
+  - Clone the repository: <code>git clone https://https://github.com/Kaushal2212/CRUD-Rest-API-Project-On-Insurance-Management</code><br>
   - Navigate to the project directory: <code>cd insurance-management</code><br>
   - Configure the database in <code>application.properties</code>.<br>
   - Install dependencies: <code>mvn clean install</code><br>
@@ -36,6 +36,6 @@
 </p>
 
 <p>
-  <b>License</b><br>
-  This project is licensed under @2025 Kaushal B. Kadam.
+  <b>CopyRight</b><br>
+  @2025 Kaushal B. Kadam.
 </p>
